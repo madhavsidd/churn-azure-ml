@@ -1,7 +1,7 @@
 import requests
 import json
 
-scoring_uri = 'http://cabd63a3-7549-47db-b56d-67c84f170c55.eastus2.azurecontainer.io/score'
+scoring_uri = ''
 
 input_data = json.dumps({
     "data": [
