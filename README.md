@@ -13,6 +13,9 @@ This project implements a machine learning model to predict customer churn for t
 3. **Model Training**: Performed using Azure Machine Learning Studio, leveraging automated machine learning and custom ML pipelines.
 4. **Model Deployment**: The model is deployed to an Azure ML Endpoint for real-time predictions.
 
+![flowchart](https://github.com/user-attachments/assets/dfeceace-f1dd-485d-b41e-05e2dff55dd0)
+
+
 ## Technology Stack
 - **Data Storage**: Telecom customer data in Azure Blob Storage.
 - **Model Training**: Azure Machine Learning Studio.
